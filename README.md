@@ -1,0 +1,2 @@
+# rincus
+Główne repo.
